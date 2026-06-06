@@ -9,6 +9,16 @@ This project was a course assignment in JavaScript 1. GameHub is a responsive e-
 - HTML
 - CSS
 
+# Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/FabianAugustSkjellestad/FabianSkjellestad-Gamehub-js.git
+   ```
+2. **Open with Live Server**
+   ```bash
+   Open index.html using Live Server Extension
+   ```
+
 # Project Link
 - https://fabianaugustskjellestad.github.io/FabianSkjellestad-Gamehub-js/
 
